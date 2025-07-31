@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -67,4 +67,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
+
+## What is React ?
+-> React is a javascript library for building user interfaces, especially for web applications.
+-> React was created by Facebook to make it easier to build complex applications which are dynamic and   interaction.
+-> Before react managing updates and changes in web pages was complicated and slow. When using react, it makes this process faster and move efficient.
+-> It was created to simplify developer's life by easy creating, complex applications and sped up process and the performance of the pages.
