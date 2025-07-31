@@ -86,5 +86,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## Jsx - what is Jsx ?
 * Jsx - it's a system extension for javascript that looks like html
-
 * Jsx allows you to write html code in javascript files. It's really simplifies the process of creating interactive web pages. Make it more cleaner and readable.
+
+## DOM - What is DOM ?
+* DOM is a document object model. The DOM is needed to organize and access elements on a webpage
+* It is a javascript object that contains all the elements you have in the html, like paragraph, links, lists and others.
+* DOM is a tree representation which contains the all elements you have in an html.
+* DOM allows you to use javascript to find, add, update and delete elements without reloading the page. 
