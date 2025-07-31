@@ -70,10 +70,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 ## What is React ?
-React is a javascript library for building user interfaces, especially for web applications.
+-> React is a javascript library for building user interfaces, especially for web applications.
 
-React was created by Facebook to make it easier to build complex applications which are dynamic and   interaction.
+-> React was created by Facebook to make it easier to build complex applications which are dynamic and   interaction.
 
-Before react managing updates and changes in web pages was complicated and slow. When using react, it makes this process faster and move efficient.
+-> Before react managing updates and changes in web pages was complicated and slow. When using react, it makes this process faster and move efficient.
 
-It was created to simplify developer's life by easy creating, complex applications and sped up process and the performance of the pages.
+-> It was created to simplify developer's life by easy creating, complex applications and sped up process and the performance of the pages.
+
+## Key Features of React 
+1. Jsx 
+2. Virtual DOM
+3. Component-based Architecture
+4. One-way data flow
+
+## Jsx - what is Jsx ?
+* Jsx - it's a system extension for javascript that looks like html
+
+* Jsx allows you to write html code in javascript files. It's really simplifies the process of creating interactive web pages. Make it more cleaner and readable.
