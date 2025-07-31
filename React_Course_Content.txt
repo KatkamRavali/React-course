@@ -1,0 +1,25 @@
+## What is React ?
+* React is a javascript library for building user interfaces, especially for web applications.
+* React was created by Facebook to make it easier to build complex applications which are dynamic and   interaction.
+* Before react managing updates and changes in web pages was complicated and slow. When using react, it makes this process faster and move efficient.
+* It was created to simplify developer's life by easy creating, complex applications and sped up process and the performance of the pages.
+
+## Key Features of React 
+1. Jsx 
+2. Virtual DOM
+3. Component-based Architecture
+4. One-way data flow
+
+## Jsx - what is Jsx ?
+* Jsx - it's a system extension for javascript that looks like html
+* Jsx allows you to write html code in javascript files. It's really simplifies the process of creating interactive web pages. Make it more cleaner and readable.
+
+## DOM - What is DOM ?
+* DOM is a document object model. The DOM is needed to organize and access elements on a webpage
+* It is a javascript object that contains all the elements you have in the html, like paragraph, links, lists and others.
+* DOM is a tree representation which contains the all elements you have in an html.
+* DOM allows you to use javascript to find, add, update and delete elements without reloading the page. 
+* For Example : When you're choosing a date on a webiste or booking a hotel, it's important that the page responds immediately - without making you wait 3 to 5 seconds for a fullpage reload. The DOM allows javascript to update only part of the page instantly, which improves the user experience. However, if you try to update many elements at the same time, or perform alot of DOM operations quickly, the browser can become slow or laggy.This performance slowdown is one of the disadvantages of using the DOM directly.
+
+## Virtual DOM :
+* The Virtual DOM is a lightweight copy of the real DOM. It helps 
