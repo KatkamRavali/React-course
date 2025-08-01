@@ -111,10 +111,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ## Installation :
 * Install Visual Studio Code, Nodejs
 * Open Visual Studio Code, open terminal -> new terminal
-* To check if nodejs is installed successfully or not - Type "node -v" in the terminal
-* To check if npm is installed successfully or not - Type "npm -v" in the terminal.
+* To check if nodejs is installed successfully or not - Type `node -v` in the terminal
+* To check if npm is installed successfully or not - Type `npm -v` in the terminal.
 * For Visual Studio Code Settings :
-
-File -> Preferences -> Settings
-
-![alt text](image.png) - To see the json settings
+* File -> Preferences -> Settings
+* ![alt text](image.png)  - To see the json settings
+* `npx create-react-app my-app`  - It creates a react application folder installs all needed dependencies, create some basic files we need. Here `my-app` - It is the project name.
+* The packages installed are :
+* react - It's a library.
+* react DOM - It is needed to work with DOM at least for rendering react application.
+* react script - It's package
